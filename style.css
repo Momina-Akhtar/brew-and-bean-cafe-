@@ -44,7 +44,7 @@ h2 {
 }
 #home {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
-    url("images/cafe-hero.jpg");
+    url("cafe-hero.jpg");
         background-size: cover;
         background-position: center;
         color: beige;
